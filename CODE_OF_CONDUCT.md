@@ -7,4 +7,5 @@
 * Any attempts to weaponize this CoC will result in an immediate ban.
 * Beyond that, nothing else matters.
 
+This CoC is based on [No Code of Conduct](https://github.com/domgetter/NCoC). 
 For more information, please visit the [Keep It Simple Stupid Code of Conduct](https://github.com/xseadgdc/KISS-CoC) homepage.
